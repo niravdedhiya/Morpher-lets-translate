@@ -1,1 +1,1 @@
-# Language and currency translation.
+A Console software constructed using Python and tkinter, used to translate phrases from one language to another and announces it in target language to know pronunciation. The Software can also convert currency values from one to another (like USD to CAD, AUD to INR, etc.).
